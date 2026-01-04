@@ -1,0 +1,5 @@
+C:/Users/DT User/Documents/ZAVRSNI RAD/My project/.utmp/RelWithDebInfo/4u386144/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/DT User/Documents/ZAVRSNI RAD/My project/.utmp/RelWithDebInfo/4u386144/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/DT User/Documents/ZAVRSNI RAD/My project/.utmp/RelWithDebInfo/4u386144/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/DT User/Documents/ZAVRSNI RAD/My project/.utmp/RelWithDebInfo/4u386144/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/DT User/Documents/ZAVRSNI RAD/My project/.utmp/RelWithDebInfo/4u386144/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
